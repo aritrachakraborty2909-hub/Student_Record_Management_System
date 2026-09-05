@@ -1,0 +1,68 @@
+[
+    {
+        "student_id": 301,
+        "name": "Siddharth Gupta",
+        "department": "Data Science",
+        "semester": 5,
+        "marks": {
+            "subject1": 88,
+            "subject2": 90,
+            "subject3": 85
+        }
+    },
+    {
+        "student_id": 302,
+        "name": "Kavya Menon",
+        "department": "Aerospace Engineering",
+        "semester": 3,
+        "marks": {
+            "subject1": 79,
+            "subject2": 83,
+            "subject3": 81
+        }
+    },
+    {
+        "student_id": 303,
+        "name": "Aarav Joshi",
+        "department": "Biotechnology",
+        "semester": 1,
+        "marks": {
+            "subject1": 68,
+            "subject2": 74,
+            "subject3": 72
+        }
+    },
+    {
+        "student_id": 304,
+        "name": "Riya Sengupta",
+        "department": "Artificial Intelligence",
+        "semester": 5,
+        "marks": {
+            "subject1": 94,
+            "subject2": 96,
+            "subject3": 91
+        }
+    },
+    {
+        "student_id": 305,
+        "name": "Tanya Bhatia",
+        "department": "Robotics",
+        "semester": 3,
+        "marks": {
+            "subject1": 76,
+            "subject2": 80,
+            "subject3": 78
+        }
+    },
+    {
+        "student_id": 306,
+        "name": "Abhijit Mehra",
+        "department": "Optics",
+        "semester": 1,
+        "marks": {
+            "subject1": 59,
+            "subject2": 70,
+            "subject3": 93
+        }
+    }
+]

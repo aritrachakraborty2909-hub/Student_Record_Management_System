@@ -13,7 +13,7 @@ def main():
     parser.add_argument("--search-dept", help="Search student by Department")
     parser.add_argument("--min-avg", type=float, help="Search students with average marks >= min-avg")
     
-    parser.add_argument("--add", nargs=6, metavar=('ID', 'NAME', 'DEPT', 'SEM', 'M1', 'M2_M3'),
+    parser.add_argument("--add", nargs=7, metavar=('ID', 'NAME', 'DEPT', 'SEM', 'M1', 'M2', 'M3'),
                         help="Add new student: ID Name Dept Sem Mark1 Mark2 Mark3 (e.g. 106 Anita CSE 1 80 85 90)")
     parser.add_argument("--out", help="Output file path to save updated records")
 
